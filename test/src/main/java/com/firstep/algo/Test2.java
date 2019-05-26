@@ -99,7 +99,6 @@ public class Test2 {
     }
 
     private static int getMaxLog(int a, int b) {
-
         return (int)(Math.log((double)b)/Math.log((double)a));
     }
 }
